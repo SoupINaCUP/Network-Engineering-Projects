@@ -1,8 +1,0 @@
-Issue 1: R2 was in Area 2 instead of Area 0 → Changed to Area 0.
-Issue 2: R3 and R1 had the same Router ID (1.1.1.1) → Set R3’s Router ID to 3.3.3.3.
-Issue 3: R4 was using OSPF process 4 instead of OSPF 1 → Changed to match the network.
-Troubleshooting Commands:
-show ip ospf neighbor → Check OSPF neighbors.
-show ip route ospf → Verify OSPF routes.
-show ip ospf interface brief → Check interface costs & areas.
-show ip protocols → Verify Router ID and OSPF settings.
