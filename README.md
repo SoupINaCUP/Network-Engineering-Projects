@@ -3,10 +3,10 @@ collection of scripts, labs, troubleshooting and solutions
 
 
 ## 📂 Folder Structure  
-- **OSPF-Troubleshooting/** → OSPF labs and troubleshooting notes.  
-- **VLAN-Config/** → VLAN configurations and troubleshooting.  
-- **Security-Labs/** → Hack The Box write-ups and firewall-related labs.  
-- **Python-Automation/** → Python scripts for network automation.  
+- **Troubleshooting-Labs/** → Common networking troubleshooting scenarios (OSPF, VLAN, STP, BGP, etc.).  
+- **Network-Configurations/** → VLAN setups, routing configs, firewall rules, and interface configs.  
+- **Security-Labs/** → Hack The Box write-ups, firewall configurations, and security research.  
+- **Automation-Scripts/** → Python scripts for network automation and CLI-based management.  
 
 ## 🔥 About Me  
 I’m a network engineer focused on improving my skills in **Cisco, Juniper, Python automation, and security**. This repository is a collection of my work, including labs, troubleshooting steps, and automation scripts.  
