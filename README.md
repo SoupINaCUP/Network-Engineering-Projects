@@ -1,23 +1,24 @@
-# NetworkingProjects
-collection of scripts, labs, troubleshooting and solutions 
+# 📡 Network Engineering Projects 🚀  
 
+This repository showcases my hands-on **network engineering, security, and automation** projects. It includes **Packet Tracer labs, troubleshooting documentation, network configurations, and Python scripts for automation**.  
 
 ## 📂 Folder Structure  
-- **Troubleshooting-Labs/** → Common networking troubleshooting scenarios (OSPF, VLAN, STP, BGP, etc.).  
-- **Network-Configurations/** → VLAN setups, routing configs, firewall rules, and interface configs.  
-- **Security-Labs/** → Hack The Box write-ups, firewall configurations, and security research.  
-- **Automation-Scripts/** → Python scripts for network automation and CLI-based management.  
+- **Troubleshooting-Labs/** → OSPF, VLAN, and general networking troubleshooting labs.  
+- **Network-Configurations/** → VLAN setups, routing configs, and firewall rules.  
+- **Security-Labs/** → Hack The Box write-ups and security configurations.  
+- **Automation-Scripts/** → Python scripts for network automation.  
 
-## 🔥 About Me  
-I’m a network engineer focused on improving my skills in **Cisco, Juniper, Python automation, and security**. This repository is a collection of my work, including labs, troubleshooting steps, and automation scripts.  
+## 🔥 Skills Demonstrated  
+- **Networking:** OSPF, VLANs, troubleshooting, and configurations.  
+- **Security:** Firewall rules, Hack The Box labs, and hardening techniques.  
+- **Automation:** Python scripting for networking (Netmiko, Paramiko).  
 
+## 📌 How to Use  
+1. Open the relevant folder for networking topics.  
+2. Download **Packet Tracer/GNS3 files** to run the labs.  
+3. Check out **Python scripts** for automation examples.  
 
-## 📌 Current Focus  
-- Learning **Python for network automation**.  
-- Practicing **OSPF, VLANs, and troubleshooting**.  
-- Documenting my **Hack The Box security labs**.  
-
-## 🚀 Future Plans  
-- More **advanced network automation scripts**.  
-- Exploring **DevOps tools like Ansible and Terraform**.  
-- Creating a structured **networking study plan**.  
+## 📈 My Learning Focus  
+✅ **Deepening my networking knowledge (OSPF, BGP, VLANs, troubleshooting).**  
+✅ **Improving network automation using Python.**  
+✅ **Exploring security concepts through real-world labs.**  
