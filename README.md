@@ -1,4 +1,4 @@
-# 📡 Network Engineering Projects 🚀  
+#  Network Engineering Projects 
 
 This repository showcases my hands-on **network engineering, security, and automation** projects. It includes **Packet Tracer labs, troubleshooting documentation, network configurations, and Python scripts for automation**.  
 
