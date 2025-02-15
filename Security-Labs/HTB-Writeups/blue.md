@@ -1,8 +1,12 @@
 # HTB Machine: Machine-Name  
- **Date Completed:** 02/13/2025
-🔹 **Difficulty:** Easy 
-🔹 **OS:** Linux  
-🔹 **Objective:**  Exploit misconfigured rsync to retrieve a flag 
+**Date Completed:** 02/13/2025
+🔹**Difficulty:** Easy 
+🔹**OS:** Linux 
+🔹**Objective:** 
+Exploit misconfigured rsync to retrieve a flag 
+
+
+
 
 ##  Steps for objective 
 🔹 Nmap Scan: Found rsync (port 873) open with anonymous access enabled.
